@@ -11,6 +11,7 @@ Download a Big Passwords List to get a big chance of password finding
 -Windows XP/7/8/8.1/10 
 -Linux / Using Kali Release(This choice is recommended )
 
+-SMTP Servers & Ports : https://www.arclab.com/en/kb/email/list-of-smtp-and-imap-servers-mailserver-list.html
 # Credits
 Of Course Me :D  i Dont care :p 
 
